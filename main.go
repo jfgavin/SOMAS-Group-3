@@ -1,6 +1,6 @@
 package main
 
-import counterServer "github.com/jfgavin/SOMAS-Group-3/server"
+import counterServer "github.com/jfgavin/SOMAS-CW-2025/server"
 
 // "go run ."
 func main() {

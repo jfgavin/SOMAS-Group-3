@@ -1,4 +1,4 @@
-# SOMAS-Group-3
+# SOMAS-CW-2025
 
 ### MVP Specification
 

@@ -5,7 +5,7 @@ import (
 	"math/rand"
 
 	"github.com/MattSScott/basePlatformSOMAS/v2/pkg/agent"
-	"github.com/jfgavin/SOMAS-Group-3/infra"
+	"github.com/jfgavin/SOMAS-CW-2025/infra"
 )
 
 // third tier of composition - embed BaseCounterAgent..

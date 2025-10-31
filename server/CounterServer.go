@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/MattSScott/basePlatformSOMAS/v2/pkg/server"
-	"github.com/jfgavin/SOMAS-Group-3/agents"
-	"github.com/jfgavin/SOMAS-Group-3/infra"
+	"github.com/jfgavin/SOMAS-CW-2025/agents"
+	"github.com/jfgavin/SOMAS-CW-2025/infra"
 )
 
 type CounterServer struct {

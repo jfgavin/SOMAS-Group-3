@@ -1,4 +1,4 @@
-module github.com/jfgavin/SOMAS-Group-3
+module github.com/jfgavin/SOMAS-CW-2025
 
 go 1.25.3
 
